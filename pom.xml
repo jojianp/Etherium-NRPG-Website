@@ -39,7 +39,9 @@
 		<developer>
 			<name>Ismael Moreira</name>
 			<email>ismaelmoreirakt@gmail.com</email>
-			<roles>Team Lead</roles>
+			<roles>
+				<role>Team Lead</role>
+			</roles>
 			<url>https://github.com/IsMoreiraKt</url>
 		</developer>
 	</developers>
