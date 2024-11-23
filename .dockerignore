@@ -1,0 +1,18 @@
+# Files and Folders for Git Configuration.
+.gitattributes
+.gitignore
+.github/*
+.git/*
+
+# Documentation
+docs/*
+*.md
+LICENSE
+
+# Maven Configuration
+.mvn/*
+mvnw
+mvnw.cmd
+
+# Local Binaries
+target/*
