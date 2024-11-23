@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Main entry point for the Ethsite application.
  */
 @SpringBootApplication
-public final class EthsiteApplication {
+public class EthsiteApplication {
     private EthsiteApplication() {
         throw new UnsupportedOperationException(
             "Utility class should not be instantiated"
