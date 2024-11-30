@@ -44,6 +44,15 @@
 			</roles>
 			<url>https://github.com/IsMoreiraKt</url>
 		</developer>
+
+		<developer>
+			<name>João Antônio</name>
+			<email>jnpires2020@gmail.com</email>
+			<roles>
+				<role>Developer</role>
+			</roles>
+			<url>https://github.com/jojianp</url>
+		</developer>
 	</developers>
 	
 	<scm>
